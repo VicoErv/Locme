@@ -1,0 +1,16 @@
+{
+    "name": "vicoerv/locme",
+    "description": "Laravel Localization",
+    "type": "library",
+    "require-dev": {
+        "orchestra/testbench": "^3.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vico Ervanda",
+            "email": "vicoerv@gmail.com"
+        }
+    ],
+    "require": {}
+}
